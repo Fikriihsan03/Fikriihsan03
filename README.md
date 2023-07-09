@@ -1,16 +1,23 @@
-### Hi there 👋
+![](https://komarev.com/ghpvc/?username=Fikriihsan03)
 
-<!--
-**Fikriihsan03/Fikriihsan03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there 👋
+My name is Muhammad Fikri Ihsan
+and i'm just an ordinary boy
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning Javascript & PHP
+- 💬 Ask me about Javascript
+- 📫 How to reach me: https://discordapp.com/users/724131585951137832
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love jokes  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Fikriihsan03&show_icons=true&theme=dracula">
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fikriihsan03&show_icons=true&theme=dracula">
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fikriihsan&show_icons=true&theme=dracula">
+</div>
