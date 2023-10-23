@@ -6,7 +6,7 @@ and i'm just an ordinary boy
 
 - 🌱 I’m currently learning Javascript & PHP
 - 💬 Ask me about Javascript
-- 📫 How to reach me: https://discordapp.com/users/724131585951137832
+- 📫 How to reach me: https://www.linkedin.com/in/fikri-ihsan-0776b91b9/
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love jokes  
 
